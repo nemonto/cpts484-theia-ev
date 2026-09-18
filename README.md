@@ -26,7 +26,7 @@ added as a collaborator with write access.
 ## Links
 
 - **Discord:** `https://discord.gg/9B6YkcuVz`
-- **Draft Preliminary Project Plan:** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/)
+- **Draft Preliminary Project Plan:** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/Team_EV_Preliminary_Project_Plan.docx)
 
 ---
 
