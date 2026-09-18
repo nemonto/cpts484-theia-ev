@@ -9,7 +9,7 @@
 
 ## Contents
 
-- `DRAFT_Preliminary_Project_Plan.md` — current draft, v1.0 draft 1.
+- `Team_EV_Preliminary_Project_Plan.docx` — current draft, v1.0 draft 1.
 
 ## What reviewers should look at first
 
