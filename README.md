@@ -15,10 +15,10 @@ with end-to-end traceability. We are not building the app.
 | Member | GitHub | Role |
 |---|---|---|
 | Zichuo Wang | [@nemonto](https://github.com/nemonto) | Liaison, repo owner |
-| James Zuniga | _TBD_ | |
-| Austin Aragon | _TBD_ | |
+| James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | |
+| Austin Aragon | [@Austin-AA](https://github.com/Austin-AA) | |
 | Justus Jones | _TBD_ | |
-| Young Kim | _TBD_ | |
+| Young Kim | [@YoungCorKim](https://github.com/YoungCorKim) | |
 
 **New teammates:** post your name + GitHub username in `#general` on Discord and you'll be
 added as a collaborator with write access.
@@ -54,10 +54,10 @@ draft plan (§2.3) — say so in `#general` if you'd rather swap.
 | ID | Work product | Weight | Owner | Folder |
 |---|---|---|---|---|
 | D-0 | Preliminary Project Plan + repo link | not graded | Zichuo Wang | `01-project-plan/` |
-| D-1 | AS-IS/TO-BE scenarios — slides + 10–15 min video | 20% | Member B | `02-as-is-to-be/` |
-| D-2 | WRS §2 — Issues in the Preliminary Definition | 25% | Member C | `03-wrs/` |
-| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Member D | `03-wrs/` |
-| D-4 | Prototype mock-up + preliminary User Manual | 10% | Member E | `04-prototype-user-manual/` |
+| D-1 | AS-IS/TO-BE scenarios — slides + 10–15 min video | 20% | James Zuniga | `02-as-is-to-be/` |
+| D-2 | WRS §2 — Issues in the Preliminary Definition | 25% | Austin Aragon | `03-wrs/` |
+| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Justus Jones | `03-wrs/` |
+| D-4 | Prototype mock-up + preliminary User Manual | 10% | Young Kim | `04-prototype-user-manual/` |
 | D-5 | Project Plan, final Phase I version | 10% | Zichuo Wang | `01-project-plan/` |
 | D-6 | AI Usage and Teamwork Report | 10% | Zichuo Wang | `05-ai-usage-teamwork/` |
 | D-7 | Peer Review form | mandatory | each member, individually | *not in repo — submit to instructor* |
