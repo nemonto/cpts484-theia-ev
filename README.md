@@ -14,7 +14,7 @@ with end-to-end traceability. We are not building the app.
 
 | Member | GitHub | Role |
 |---|---|---|
-| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D5 & D6 |
+| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D0, D5 & D6 |
 | James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D1 |
 | Austin Aragon | [@Austin-AA](https://github.com/Austin-AA) | D2 |
 | Justus Jones | _TBD_ | D3 |
