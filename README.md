@@ -17,7 +17,7 @@ with end-to-end traceability. We are not building the app.
 | Zichuo Wang | [@nemonto](https://github.com/nemonto) | D0, D5 & D6 |
 | James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D1 |
 | Austin Aragon | [@Austin-AA](https://github.com/Austin-AA) | D2 |
-| Justus Jones | _TBD_ | D3 |
+| Justus Jones | [@Jorstors](https://github.com/Jorstors) | D3 |
 | Young Kim | [@YoungCorKim](https://github.com/YoungCorKim) | D4 |
 
 **New teammates:** post your name + GitHub username in `#general` on Discord and you'll be
