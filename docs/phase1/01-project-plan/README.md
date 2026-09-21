@@ -1,6 +1,6 @@
-# 01 — Project Plan (D-0 / D-5)
+# 01 — Project Plan
 
-**Owner:** Member A · **Secondary:** Member D · **Reviewers:** all
+**Owner:** Zichuo Wang · **Secondary:** Justus Jones · **Reviewers:** all
 
 | Deliverable | Due | Weight |
 |---|---|---|
@@ -9,7 +9,7 @@
 
 ## Contents
 
-- `Team_EV_Preliminary_Project_Plan.docx` — current draft, v1.0 draft 1.
+- `Team_EV_Preliminary_Project_Plan.docx` — current draft, v1.0 draft 2.
 
 ## What reviewers should look at first
 
