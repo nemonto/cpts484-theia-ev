@@ -1,6 +1,6 @@
 # 01 — Project Plan
 
-**Owner:** Zichuo Wang · **Secondary:** Justus Jones · **Reviewers:** all
+**Owner:** Zichuo Wang · **Co-author:** James Zuniga · **Reviewers:** all
 
 | Deliverable | Due | Weight |
 |---|---|---|
@@ -9,15 +9,12 @@
 
 ## Contents
 
-- `Team_EV_Preliminary_Project_Plan.docx` — current draft, v1.0 draft 2.
+- `Team_EV_Preliminary_Project_Plan.docx` — current draft, v1.0 draft 3.
 
-## What reviewers should look at first
+## What team members should look at first
 
-Section 2.3 (Roles and Responsibilities) — one work product is assigned to each member. Those
-assignments are a **starting proposal, not a decision**. If you would rather own a different
-one, say so in `#general` and we will swap.
-
-Then Section 5 (the timeline) — flag any week you are already committed elsewhere.
+Section 2.3 (Roles and Responsibilities) — the owner / co-author table. Then Section 5 (the
+timeline) — flag any week you are already committed elsewhere.
 
 ## Versioning
 
