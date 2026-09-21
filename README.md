@@ -12,13 +12,15 @@ with end-to-end traceability. We are not building the app.
 
 ## Team
 
-| Member | GitHub | Role |
-|---|---|---|
-| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D0, D5 & D6 |
-| James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D1 |
-| Austin Aragon | [@Austin-AA](https://github.com/Austin-AA) | D2 |
-| Justus Jones | [@Jorstors](https://github.com/Jorstors) | D3 |
-| Young Kim | [@YoungCorKim](https://github.com/YoungCorKim) | D4 |
+| Member | GitHub | Owner of | Co-author of |
+|---|---|---|---|
+| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D-0, D-5, D-6 · Liaison | D-4 |
+| James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D-1 | D-5 |
+| Austin Aragon | [@Austin-AA](https://github.com/Austin-AA) | D-2 | D-1 |
+| Justus Jones | [@Jorstors](https://github.com/Jorstors) | D-3 | D-2 |
+| Young Kim | [@YoungCorKim](https://github.com/YoungCorKim) | D-4 | D-3, D-6 |
+
+Everyone reviews every work product.
 
 **New teammates:** post your name + GitHub username in `#general` on Discord and you'll be
 added as a collaborator with write access.
@@ -26,41 +28,43 @@ added as a collaborator with write access.
 ## Links
 
 - **Discord:** `https://discord.gg/9B6YkcuVz`
-- **Draft Preliminary Project Plan:** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/Team_EV_Preliminary_Project_Plan.docx)
+- **Project Plan (v1.0 draft 3):** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/Team_EV_Preliminary_Project_Plan.docx)
 
 ---
 
-## Phase I key dates
+## Phase I schedule
 
-| Date | Milestone |
-|---|---|
-| Sun, Sep 20, 2026 | **Preliminary Plan submission** — not graded, feedback only |
-| Sun, Oct 4, 2026 | *Internal:* WRS §2 complete; Problems and Goals drafted |
-| Oct 9–11, 2026 | *Internal:* review window — every member reviews every work product |
-| Sun, Oct 11, 2026 | *Internal:* all work products in complete draft |
-| Mon, Oct 12, 2026 | **Peer Review form** — individual, mandatory |
-| Fri, Oct 16, 2026 | *Internal:* freeze — no new writing, assembly only |
-| Sun, Oct 18, 2026 | **Phase I final submission** |
+Every week ends with a **team review at the Sunday checkpoint**: everyone reviews that week's
+output against the Requirements Review Checklist before the next week builds on it.
 
+| Week | Dates | Work | Checkpoint / milestone |
+|---|---|---|---|
+| W1 | Sep 14–20 | Team set up; preliminary plan | **Preliminary Plan submitted — Sun, Sep 20** (not graded) |
+| W2 | Sep 21–27 | Everyone reads the Preliminary Definition + Masterlist and logs ≥3 issues; issues list consolidated; three scenario pairs chosen | Sun, Sep 27: issues list + scenarios reviewed |
+| W3 | Sep 28–Oct 4 | WRS §2 completed; WRS §3 Problems and Goals started; slide skeleton; prototype sketched; Top Priority scenario chosen | Sun, Oct 4: WRS §2 complete, Problems and Goals drafted |
+| W4–W5 | Oct 5–18 | WRS §3 + traceability; slides; scenario analysis; FP + creeping rate; user manual. Midterm week, so this runs through W5 | Sun, Oct 11: midterm-week checkpoint |
+| — | Mon, Oct 12 | Peer Review form, individual | **Peer Review form submitted — Mon, Oct 12** (mandatory) |
+| W5 | Oct 13–18 | Presentation recorded; D-6 assembled; editing pass; plan finalized; submission | Fri, Oct 16: video uploaded · **Phase I submission — Sun, Oct 18** |
 
 ---
 
 ## Work products and owners
 
-One owner, four reviewers. Each work product has a single accountable point person;
-the other four review it during the Oct 9–11 window. Owners are a starting proposal from the
-draft plan (§2.3) — say so in `#general` if you'd rather swap.
+**One owner, one co-author, four reviewers.** The owner leads the work product and pulls in the
+team's input. The co-author writes an agreed part of it with the owner, and can take it over if
+the owner falls behind. The other four members (including the co-author) review it every week,
+not only before submission. See plan §2.3.
 
-| ID | Work product | Weight | Owner | Folder |
-|---|---|---|---|---|
-| D-0 | Preliminary Project Plan + repo link | not graded | Zichuo Wang | `01-project-plan/` |
-| D-1 | AS-IS/TO-BE scenarios — slides + 10–15 min video | 20% | James Zuniga | `02-as-is-to-be/` |
-| D-2 | WRS §2 — Issues in the Preliminary Definition | 25% | Austin Aragon | `03-wrs/` |
-| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Justus Jones | `03-wrs/` |
-| D-4 | Prototype mock-up + preliminary User Manual | 10% | Young Kim | `04-prototype-user-manual/` |
-| D-5 | Project Plan, final Phase I version | 10% | Zichuo Wang | `01-project-plan/` |
-| D-6 | AI Usage and Teamwork Report | 10% | Zichuo Wang | `05-ai-usage-teamwork/` |
-| D-7 | Peer Review form | mandatory | each member, individually | *not in repo — submit to instructor* |
+| ID | Work product | Weight | Owner | Co-author | Folder |
+|---|---|---|---|---|---|
+| D-0 | Preliminary Project Plan + repo link | not graded | Zichuo Wang | — | `01-project-plan/` |
+| D-1 | AS-IS/TO-BE scenarios — slides + 10–15 min video | 20% | James Zuniga | Austin Aragon | `02-as-is-to-be/` |
+| D-2 | WRS §2 — Issues in the Preliminary Definition | 25% | Austin Aragon | Justus Jones | `03-wrs/` |
+| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Justus Jones | Young Kim | `03-wrs/` |
+| D-4 | Prototype mock-up + preliminary User Manual | 10% | Young Kim | Zichuo Wang | `04-prototype-user-manual/` |
+| D-5 | Project Plan, final Phase I version | 10% | Zichuo Wang | James Zuniga | `01-project-plan/` |
+| D-6 | AI Usage and Teamwork Report | 10% | Zichuo Wang | Young Kim | `05-ai-usage-teamwork/` |
+| D-7 | Peer Review form | mandatory | each member, individually | — | *not in repo — submit to instructor* |
 
 **Shared by everyone:** at least three candidate issues from the Preliminary Definition during
 the elicitation week (Sep 21–27). Roughly thirty minutes. This is what keeps D-2 from being one
@@ -96,4 +100,3 @@ docs/
 3. **No unreviewed AI output ships**. Nothing AI-assisted enters a
    deliverable until its owner has verified it against the source documents and one reviewer
    has checked it.
-
