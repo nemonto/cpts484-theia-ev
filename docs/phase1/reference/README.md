@@ -23,5 +23,4 @@ private (and adds the instructor/TA as a collaborator), remove those two lines f
 - The **World Assumptions Masterlist** bounds our scope. Which assumptions we adopt, add, or
   drop is a team decision that has to be recorded — in the WRS and in the AI usage logs.
 - The **Requirements Review Checklist** is what reviewers read the work products against during
-  the Oct 9–11 internal review. That is the only review these documents get before submission —
-  nobody outside the team will read the WRS and tell us the traceability is broken.
+  the review.
