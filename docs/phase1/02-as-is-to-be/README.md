@@ -1,6 +1,6 @@
 # 02 — AS-IS / TO-BE Scenarios (D-1)
 
-**Owner:** James Zuniga · **Secondary:** Young Kim · **Reviewers:** all
+**Owner:** James Zuniga · **Co-author:** Austin Aragon · **Reviewers:** all
 **Due:** Sun, Oct 18, 2026 · **Weight:** 20%
 
 ## What goes here
@@ -10,6 +10,15 @@
   video files.
 - Any storyboard or scenario notes behind the slides.
 
+## Timeline
+
+- **W2 (by Sun, Sep 27):** everyone proposes a scenario idea; the three distinct pairs are chosen.
+- **W3 (by Sun, Oct 4):** slide skeleton; Top Priority TO-BE scenario chosen.
+- **W4–W5 (Oct 5–18):** slides finished; Top Priority analysis. Video uploaded **Fri, Oct 16**.
+
+Each stage is reviewed by the team at the Sunday checkpoint. D-4 (prototype + manual) is built
+on these scenarios, so its owner and co-author should be in the loop from W2.
+
 ## Requirements to hit
 
 - **Three distinct pairs** of AS-IS / TO-BE scenarios, covering different *aspects* of the
@@ -17,8 +26,6 @@
   in the plan, and the most common place teams lose points.
 - One pair nominated as the **Top Priority TO-BE scenario**, with an analysis of it and the
   reasoning behind the choice.
-- That choice and its rationale are a human judgment call — record who made it and why in your
-  AI usage log. It is exactly the kind of contribution D-6 asks you to evidence.
 
 ## Video link
 
