@@ -1,7 +1,4 @@
-# AI usage log — <your name>
-
-Copy this file to `log-<yourname>.md`. Append one block per working session, newest at the
-bottom. Target: two minutes per block. Screenshots go in `screens/`.
+# AI usage log
 
 ---
 
