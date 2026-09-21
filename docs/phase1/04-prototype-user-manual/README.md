@@ -1,6 +1,6 @@
 # 04 — Prototype Mock-up + Preliminary User Manual (D-4)
 
-**Owner:** Member E · **Secondary:** Member B · **Reviewers:** all
+**Owner:** Young Kim · **Secondary:** James Zuniga · **Reviewers:** all
 **Due:** Sun, Oct 18, 2026 · **Weight:** 10%
 
 ## What goes here
