@@ -1,6 +1,6 @@
 # 05 — AI Usage and Teamwork Report (D-6)
 
-**Owner:** Member A · **Secondary:** Member B · **Reviewers:** all
+**Owner:** Zichuo Wang · **Secondary:** Young Kim · **Reviewers:** all
 **Due:** Sun, Oct 18, 2026 · **Weight:** 10% · **Assembly window:** Oct 13–16
 
 ## What the spec actually grades
@@ -46,7 +46,7 @@ A report that can say "we rejected 14 of 31 suggested issues, and here is the cr
 applied" reads as a team that used a tool. One that says "we used AI to help write the WRS"
 reads as a team that was used by one — regardless of what actually happened.
 
-## Assembling D-6 (Oct 13–16)
+## Assembling D-6
 
 The owner merges the five logs into one report:
 
