@@ -5,8 +5,8 @@ separately and owned by different members.
 
 | Part | Content | Owner | Secondary | Weight |
 |---|---|---|---|---|
-| D-2 | Section 2 — Issues in the Preliminary Definition | Member C | Member A | 25% |
-| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Member D | Member C | 25% |
+| D-2 | Section 2 — Issues in the Preliminary Definition | Austin Aragon | Zichuo Wang | 25% |
+| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Justus Jones | Austin Aragon | 25% |
 
 **Due:** Sun, Oct 18, 2026 · **Internal deadline for D-2: Sun, Oct 4, 2026**
 
