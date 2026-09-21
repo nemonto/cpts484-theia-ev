@@ -1,6 +1,6 @@
 # 02 — AS-IS / TO-BE Scenarios (D-1)
 
-**Owner:** Member B · **Secondary:** Member E · **Reviewers:** all
+**Owner:** James Zuniga · **Secondary:** Young Kim · **Reviewers:** all
 **Due:** Sun, Oct 18, 2026 · **Weight:** 20%
 
 ## What goes here
