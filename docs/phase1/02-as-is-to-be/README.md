@@ -28,5 +28,4 @@ on these scenarios, so its owner and co-author should be in the loop from W2.
   reasoning behind the choice.
 
 ## Video link
-
-`<UNLISTED YOUTUBE LINK — add here and on Canvas>`
+https://youtu.be/0aHIRkDOK3E
