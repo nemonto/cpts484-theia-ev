@@ -5,8 +5,8 @@ separately and owned by different members.
 
 | Part | Content | Owner | Co-author | Weight |
 |---|---|---|---|---|
-| D-2 | Section 2 — Issues in the Preliminary Definition | Austin Aragon | James Zuniga | 25% |
-| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Zichuo Wang | Young Kim | 25% |
+| D-2 | Section 2 — Issues in the Preliminary Definition | Austin Aragon | Zichuo Wang | 25% |
+| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Justus Jones | Austin Aragon | 25% |
 
 **Due:** Sun, Oct 18, 2026 ·
 
