@@ -3,6 +3,13 @@
 **Owner:** Zichuo Wang · **Co-author:** Young Kim · **Reviewers:** all
 **Due:** Sun, Oct 18, 2026 · **Weight:** 10% · **Assembly:** W5 (Oct 13–18)
 
+## Contents
+
+- **`Team_EV_AI_Usage_and_Teamwork_Report.docx`** — the submitted D-6 report.
+- `<Name>_AI_Usage_Report/` — each member's evidence (James Zuniga's log, Discord screenshots
+  from Zichuo Wang, Young Kim, and Austin Aragon). Justus Jones submitted no evidence.
+- `log-template.md` — the per-session log template.
+
 ## What the spec actually grades
 
 The report needs evidence — screenshots, chat logs — of how the team used generative AI, **and**

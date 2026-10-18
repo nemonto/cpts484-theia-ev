@@ -5,20 +5,21 @@ separately and owned by different members.
 
 | Part | Content | Owner | Co-author | Weight |
 |---|---|---|---|---|
-| D-2 | Section 2 — Issues in the Preliminary Definition | Austin Aragon | Justus Jones | 25% |
-| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Justus Jones | Young Kim | 25% |
+| D-2 | Section 2 — Issues in the Preliminary Definition | Austin Aragon | James Zuniga | 25% |
+| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Zichuo Wang | Young Kim | 25% |
 
-**Due:** Sun, Oct 18, 2026 · **Internal deadline for D-2: Sun, Oct 4, 2026**
+**Due:** Sun, Oct 18, 2026 ·
 
-## The dependency (DE-1 / risk R-2)
+Justus Jones was the D-3 owner and D-2 co-author in the preliminary plan; he did not deliver work
+for Phase I, so both roles were reassigned in W5.
 
-D-3 cannot be finished before D-2 stabilizes. That is why D-2 has an internal deadline two weeks
-ahead of submission, and why the D-3 owner and co-author start on Problems and Goals in that same
-week from the *draft* issues list rather than waiting for D-2 to be final. Justus co-authors D-2,
-so the D-3 owner knows the issues from the inside.
+## Contents
 
-The team reviews the WRS at every Sunday checkpoint: the issues list on Sep 27, WRS §2 and the
-Problems/Goals draft on Oct 4, and §3 as it is drafted in W4–W5.
+- **`Team_EV_WRS_Phase1.docx`** — the submitted WRS document: cover, revision history, process,
+  §1 Introduction, §2 Issues (18), §3 WRS (P1–P8, G1–G9, IFO/INFO, FR1–FR13, NFR1–NFR7),
+  §4 Prototype and User Manual, §5 Traceability, Appendix B reconciliation log.
+- `WRS-Section2-Updated.md` — Austin's §2 source (merged into the document with plain-language edits).
+- `Issues.md` — the consolidated W2 issues list.
 
 ## D-2 — Issues
 

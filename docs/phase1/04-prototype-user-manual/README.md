@@ -3,6 +3,15 @@
 **Owner:** Young Kim · **Co-author:** Zichuo Wang · **Reviewers:** all
 **Due:** Sun, Oct 18, 2026 · **Weight:** 10%
 
+## Submitted
+
+- `Theia Prototype Mock-Up.pptx` / `.pdf` — the mock-up: 5 screens (Voice Home, Navigation,
+  Off-route, Help + fall check, Settings), voice commands, gestures, vibrations. Text fixed at
+  assembly (typos, captions, gesture and mode wording aligned with the WRS); PDF re-exported.
+- **`Theia-Preliminary User Manual v1.1.docx` / `.pdf`** — the submitted user manual, rewritten from
+  v1.0 to match WRS §3 (fixed the copied gesture/vibration tables, mode definitions, help options).
+- `Theia-Preliminary User Manual.pdf` — v1.0, kept for history.
+
 ## What goes here
 
 - Mock-up screens (images, or an exported file from whatever tool you use).

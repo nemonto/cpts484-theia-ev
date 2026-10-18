@@ -14,21 +14,40 @@ with end-to-end traceability. We are not building the app.
 
 | Member | GitHub | Owner of | Co-author of |
 |---|---|---|---|
-| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D-0, D-5, D-6 · Liaison | D-4 |
-| James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D-1 | D-5 |
+| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D-0, D-3, D-5, D-6 · Liaison | D-4 |
+| James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D-1 | D-2, D-5 |
 | Austin Aragon | [@Austin-AA](https://github.com/Austin-AA) | D-2 | D-1 |
-| Justus Jones | [@Jorstors](https://github.com/Jorstors) | D-3 | D-2 |
+| Justus Jones | [@Jorstors](https://github.com/Jorstors) | — | — |
 | Young Kim | [@YoungCorKim](https://github.com/YoungCorKim) | D-4 | D-3, D-6 |
 
 Everyone reviews every work product.
 
-**New teammates:** post your name + GitHub username in `#general` on Discord and you'll be
-added as a collaborator with write access.
+**Change in the final week (W5):** Justus Jones was the D-3 owner and D-2 co-author in the
+preliminary plan. He did not reply to the team or deliver work for the Phase I submission, so
+Zichuo Wang took over D-3 (Young Kim stays co-author) and James Zuniga became the D-2 co-author.
+Justus remains a team member. See the final plan, §2.3 and §6.
 
 ## Links
 
 - **Discord:** `https://discord.gg/9B6YkcuVz`
-- **Project Plan (v1.0 draft 3):** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/Team_EV_Preliminary_Project_Plan.docx)
+- **Project Plan (final Phase I, v1.1):** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/Team_EV_Project_Plan_Phase1_Final.docx)
+- **Presentation video:** https://youtu.be/0aHIRkDOK3E
+
+---
+
+## Phase I submission (Sun, Oct 18, 2026)
+
+**Everything submitted for Phase I is in [`Phase I/`](Phase%20I/)** (see its README for the file index).
+
+| # | Deliverable | File in `Phase I/` |
+|---|---|---|
+| 1 | WRS document (§2 Issues, §3 Improved Understanding + traceability) | `Team_EV_WRS_Phase1.docx` |
+| 2 | Prototype mock-up + preliminary user manual | `Theia Prototype Mock-Up.pptx` / `.pdf`, `Theia-Preliminary User Manual v1.1.docx` / `.pdf` |
+| 3 | Revised Phase I project plan (v1.1) | `Team_EV_Project_Plan_Phase1_Final.docx` |
+| 4 | AS-IS/TO-BE slides + [video](https://youtu.be/0aHIRkDOK3E) | `Theia-AS-IS_and_TO-BE_v2.1 Final.pptx` |
+| 5 | AI Usage and Teamwork Report | `Team_EV_AI_Usage_and_Teamwork_Report.docx` |
+
+The Peer Review form (D-7) is submitted by each member individually and is not in the repo.
 
 ---
 
@@ -40,11 +59,11 @@ output against the Requirements Review Checklist before the next week builds on 
 | Week | Dates | Work | Checkpoint / milestone |
 |---|---|---|---|
 | W1 | Sep 14–20 | Team set up; preliminary plan | **Preliminary Plan submitted — Sun, Sep 20** (not graded) |
-| W2 | Sep 21–27 | Everyone reads the Preliminary Definition + Masterlist and logs ≥3 issues; issues list consolidated; three scenario pairs chosen | Sun, Sep 27: issues list + scenarios reviewed |
+| W2 | Sep 21–27 | Everyone reads the Preliminary Definition + Masterlist and logs ≥3 issues; issues list consolidated; the team's three scenario pairs chosen (plus the template's Stevie pair) | Sun, Sep 27: issues list + scenarios reviewed |
 | W3 | Sep 28–Oct 4 | WRS §2 completed; WRS §3 Problems and Goals started; slide skeleton; prototype sketched; Top Priority scenario chosen | Sun, Oct 4: WRS §2 complete, Problems and Goals drafted |
-| W4–W5 | Oct 5–18 | WRS §3 + traceability; slides; scenario analysis; FP + creeping rate; user manual. Midterm week, so this runs through W5 | Sun, Oct 11: midterm-week checkpoint |
-| — | Mon, Oct 12 | Peer Review form, individual | **Peer Review form submitted — Mon, Oct 12** (mandatory) |
-| W5 | Oct 13–18 | Presentation recorded; D-6 assembled; editing pass; plan finalized; submission | Fri, Oct 16: video uploaded · **Phase I submission — Sun, Oct 18** |
+| W4–W5 | Oct 5–18 | WRS §3 + traceability; slides; Top Priority scenario analysis; user manual. Midterm week, so this runs through W5 | Sun, Oct 11: midterm-week checkpoint |
+| W5 | Oct 13–18 | Presentation recorded; all other work products finished by Fri; Zichuo assembles everything on Sat (WRS document, final plan, AI report, consistency check); submission Sun | Fri, Oct 16: video uploaded, other work done · Sat, Oct 17: assembly · **Phase I submission — Sun, Oct 18** |
+| — | Sun, Oct 18 | Peer Review form, individual (moved from Mon, Oct 12) | **Peer Review form submitted — Sun, Oct 18** (mandatory) |
 
 ---
 
@@ -59,8 +78,8 @@ not only before submission. See plan §2.3.
 |---|---|---|---|---|---|
 | D-0 | Preliminary Project Plan + repo link | not graded | Zichuo Wang | — | `01-project-plan/` |
 | D-1 | AS-IS/TO-BE scenarios — slides + 10–15 min video | 20% | James Zuniga | Austin Aragon | `02-as-is-to-be/` |
-| D-2 | WRS §2 — Issues in the Preliminary Definition | 25% | Austin Aragon | Justus Jones | `03-wrs/` |
-| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Justus Jones | Young Kim | `03-wrs/` |
+| D-2 | WRS §2 — Issues in the Preliminary Definition | 25% | Austin Aragon | James Zuniga | `03-wrs/` |
+| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Zichuo Wang | Young Kim | `03-wrs/` |
 | D-4 | Prototype mock-up + preliminary User Manual | 10% | Young Kim | Zichuo Wang | `04-prototype-user-manual/` |
 | D-5 | Project Plan, final Phase I version | 10% | Zichuo Wang | James Zuniga | `01-project-plan/` |
 | D-6 | AI Usage and Teamwork Report | 10% | Zichuo Wang | Young Kim | `05-ai-usage-teamwork/` |
@@ -76,6 +95,7 @@ person's opinion.
 
 ```
 README.md                          # this file — roster, liaison, links
+Phase I/                           # final Phase I submission (graded files only)
 docs/
   phase1/
     01-project-plan/               # D-0 / D-5, versioned
@@ -90,13 +110,15 @@ docs/
 
 ## Working rules
 
-1. **Log your AI usage from Sep 21.** Keep `docs/phase1/05-ai-usage-teamwork/log-<yourname>.md`
-   and append a short block per working session — see the template in that folder. Two minutes
-   per session. Reconstructing this in October produces a visibly thin record, and D-6 is
-   graded on the evidence of review.
+These applied through Phase I and carry into Phase II.
+
+1. **Log your AI usage as you go.** Keep evidence in `docs/phase1/05-ai-usage-teamwork/<Your_Name>_AI_Usage_Report/`
+   (screenshots, or a short block per session using `log-template.md`). In Phase I most evidence
+   was collected at the end and the record is thin in places; in Phase II, AI logs are part of
+   each Sunday checkpoint.
 2. **Save the outputs you rejected.** A hallucinated figure you caught, a requirement that
    contradicted the World Assumptions Masterlist, a traceability link that didn't hold — those
-   are the strongest evidence D-6 can carry. 
+   are the strongest evidence D-6 can carry.
 3. **No unreviewed AI output ships**. Nothing AI-assisted enters a
    deliverable until its owner has verified it against the source documents and one reviewer
    has checked it.
