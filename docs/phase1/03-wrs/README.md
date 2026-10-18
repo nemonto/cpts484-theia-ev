@@ -5,20 +5,29 @@ separately and owned by different members.
 
 | Part | Content | Owner | Co-author | Weight |
 |---|---|---|---|---|
-| D-2 | Section 2 — Issues in the Preliminary Definition | Austin Aragon | Zichuo Wang | 25% |
-| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Justus Jones | Austin Aragon | 25% |
+| D-2 | Section 2 — Issues in the Preliminary Definition | Austin Aragon | James Zuniga | 25% |
+| D-3 | Section 3 — Improved Understanding (WRS model + traceability) | Justus Jones | Zichuo Wang | 25% |
 
 **Due:** Sun, Oct 18, 2026 ·
 
-Justus Jones was the D-3 owner and D-2 co-author in the preliminary plan; he did not deliver work
-for Phase I, so both roles were reassigned in W5.
+In W5, James Zuniga replaced Justus Jones as the D-2 co-author and Zichuo Wang replaced Young Kim
+as the D-3 co-author (plan §2.3). Justus did not reply to the team during the final week, so
+Zichuo completed §3 for the assembly on Sat, Oct 17. On Sun, Oct 18, Justus submitted an
+independent §3 draft, `WRS-Section3-Updated.md` (PR #1). After review against the slides and the
+prototype, its additions were merged into WRS v1.1.
 
 ## Contents
 
-- **`Team_EV_WRS_Phase1.docx`** — the submitted WRS document: cover, revision history, process,
-  §1 Introduction, §2 Issues (18), §3 WRS (P1–P8, G1–G9, IFO/INFO, FR1–FR13, NFR1–NFR7),
-  §4 Prototype and User Manual, §5 Traceability, Appendix B reconciliation log.
+- **`Team_EV_WRS_Phase1.docx`** — the submitted WRS document, v1.1: cover, revision history,
+  process, §1 Introduction, §2 Issues (18), §3 WRS (P1–P8, G1–G9, IFO/INFO, FR1–FR13 and
+  NFR1–NFR7 with priorities and NFR acceptance criteria), §4 Prototype and User Manual,
+  §5 Traceability (including §5.4 Preliminary Definition coverage).
 - `WRS-Section2-Updated.md` — Austin's §2 source (merged into the document with plain-language edits).
+- `WRS-Section3-Updated.md` — Justus Jones's §3 draft (Oct 18), built from
+  `WRS-Section2-Updated.md`. Merged into v1.1: priorities, NFR acceptance criteria, error
+  handling (FS1.3–FS1.4, FS3.6, FS8.2–FS8.3, FS10.7), and the Definition coverage table (§5.4).
+  Not merged: parts that conflicted with the recorded slides or the prototype (see the D-6
+  report, §5 item 7).
 - `Issues.md` — the consolidated W2 issues list.
 
 ## D-2 — Issues

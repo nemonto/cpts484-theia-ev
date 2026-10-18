@@ -7,7 +7,7 @@
 
 - **`Team_EV_AI_Usage_and_Teamwork_Report.docx`** — the submitted D-6 report.
 - `<Name>_AI_Usage_Report/` — each member's evidence (James Zuniga's log, Discord screenshots
-  from Zichuo Wang, Young Kim, and Austin Aragon). Justus Jones submitted no evidence.
+  from Zichuo Wang, Young Kim, and Austin Aragon; Justus Jones's `AI_Usage_Log.md`).
 - `log-template.md` — the per-session log template.
 
 ## What the spec actually grades

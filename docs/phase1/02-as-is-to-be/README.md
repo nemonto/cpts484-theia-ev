@@ -10,8 +10,7 @@
 - `Theia-AS-IS_and_TO-BE_v2.1 Updated.pptx`, `Theia-AS-IS_and_TO-BE_v2.0 (1).pptx` — earlier drafts.
 - Video: https://youtu.be/0aHIRkDOK3E
 
-The slides are final. During assembly the WRS, prototype, and manual were aligned to them (see
-WRS Appendix B).
+The slides are final. During assembly the WRS, prototype, and manual were aligned to them.
 
 ## What goes here
 

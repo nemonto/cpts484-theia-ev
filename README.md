@@ -14,23 +14,29 @@ with end-to-end traceability. We are not building the app.
 
 | Member | GitHub | Owner of | Co-author of |
 |---|---|---|---|
-| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D-0, D-3, D-5, D-6 · Liaison | D-4 |
-| James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D-1 | D-2, D-5 |
+| Zichuo Wang | [@nemonto](https://github.com/nemonto) | D-0, D-5, D-6 · Liaison | D-3, D-4 |
+| James Zuniga | [@JZ-EECS](https://github.com/JZ-EECS) | D-1 | D-2 |
 | Austin Aragon | [@Austin-AA](https://github.com/Austin-AA) | D-2 | D-1 |
-| Justus Jones | [@Jorstors](https://github.com/Jorstors) | — | — |
-| Young Kim | [@YoungCorKim](https://github.com/YoungCorKim) | D-4 | D-3, D-6 |
+| Justus Jones | [@Jorstors](https://github.com/Jorstors) | D-3 | — |
+| Young Kim | [@YoungCorKim](https://github.com/YoungCorKim) | D-4 | D-5, D-6 |
 
 Everyone reviews every work product.
 
-**Change in the final week (W5):** Justus Jones was the D-3 owner and D-2 co-author in the
-preliminary plan. He did not reply to the team or deliver work for the Phase I submission, so
-Zichuo Wang took over D-3 (Young Kim stays co-author) and James Zuniga became the D-2 co-author.
-Justus remains a team member. See the final plan, §2.3 and §6.
+**Role changes in the final week (W5):** James Zuniga replaced Justus Jones as D-2 co-author,
+Zichuo Wang replaced Young Kim as D-3 co-author, and Young Kim replaced James Zuniga as D-5
+co-author. Justus Jones (D-3 owner) did not reply to the team during the final week, so Zichuo
+Wang completed WRS §3 for the assembly on Sat, Oct 17. On Sun, Oct 18, Justus submitted an
+independent WRS §3 draft and his AI usage log (PR #1):
+[`WRS-Section3-Updated.md`](docs/phase1/03-wrs/WRS-Section3-Updated.md),
+[`AI_Usage_Log.md`](docs/phase1/05-ai-usage-teamwork/Jones_Justus_AI_Usage_Report/AI_Usage_Log.md).
+After review against the slides and the prototype, its additions (priorities, acceptance
+criteria, error handling, Preliminary Definition coverage) were merged into WRS v1.1. See the
+final plan, §2.3.
 
 ## Links
 
 - **Discord:** `https://discord.gg/9B6YkcuVz`
-- **Project Plan (final Phase I, v1.1):** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/Team_EV_Project_Plan_Phase1_Final.docx)
+- **Project Plan (final Phase I, v1.2):** [`docs/phase1/01-project-plan/`](docs/phase1/01-project-plan/Team_EV_Project_Plan_Phase1_Final.docx)
 - **Presentation video:** https://youtu.be/0aHIRkDOK3E
 
 ---
@@ -41,11 +47,11 @@ Justus remains a team member. See the final plan, §2.3 and §6.
 
 | # | Deliverable | File in `Phase I/` |
 |---|---|---|
-| 1 | WRS document (§2 Issues, §3 Improved Understanding + traceability) | `Team_EV_WRS_Phase1.docx` |
+| 1 | WRS document, v1.1 (§2 Issues, §3 Improved Understanding + traceability) | `Team_EV_WRS_Phase1.docx` / `.pdf` |
 | 2 | Prototype mock-up + preliminary user manual | `Theia Prototype Mock-Up.pptx` / `.pdf`, `Theia-Preliminary User Manual v1.1.docx` / `.pdf` |
-| 3 | Revised Phase I project plan (v1.1) | `Team_EV_Project_Plan_Phase1_Final.docx` |
-| 4 | AS-IS/TO-BE slides + [video](https://youtu.be/0aHIRkDOK3E) | `Theia-AS-IS_and_TO-BE_v2.1 Final.pptx` |
-| 5 | AI Usage and Teamwork Report | `Team_EV_AI_Usage_and_Teamwork_Report.docx` |
+| 3 | Revised Phase I project plan (v1.2) | `Team_EV_Project_Plan_Phase1_Final.docx` / `.pdf` |
+| 4 | AS-IS/TO-BE slides + [video](https://youtu.be/0aHIRkDOK3E) | `Theia-AS-IS_and_TO-BE_v2.1 Final.pptx` / `.pdf` |
+| 5 | AI Usage and Teamwork Report | `Team_EV_AI_Usage_and_Teamwork_Report.docx` / `.pdf` |
 
 The Peer Review form (D-7) is submitted by each member individually and is not in the repo.
 
@@ -79,9 +85,9 @@ not only before submission. See plan §2.3.
 | D-0 | Preliminary Project Plan + repo link | not graded | Zichuo Wang | — | `01-project-plan/` |
 | D-1 | AS-IS/TO-BE scenarios — slides + 10–15 min video | 20% | James Zuniga | Austin Aragon | `02-as-is-to-be/` |
 | D-2 | WRS §2 — Issues in the Preliminary Definition | 25% | Austin Aragon | James Zuniga | `03-wrs/` |
-| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Zichuo Wang | Young Kim | `03-wrs/` |
+| D-3 | WRS §3 — Improved Understanding + traceability | 25% | Justus Jones | Zichuo Wang | `03-wrs/` |
 | D-4 | Prototype mock-up + preliminary User Manual | 10% | Young Kim | Zichuo Wang | `04-prototype-user-manual/` |
-| D-5 | Project Plan, final Phase I version | 10% | Zichuo Wang | James Zuniga | `01-project-plan/` |
+| D-5 | Project Plan, final Phase I version | 10% | Zichuo Wang | Young Kim | `01-project-plan/` |
 | D-6 | AI Usage and Teamwork Report | 10% | Zichuo Wang | Young Kim | `05-ai-usage-teamwork/` |
 | D-7 | Peer Review form | mandatory | each member, individually | — | *not in repo — submit to instructor* |
 

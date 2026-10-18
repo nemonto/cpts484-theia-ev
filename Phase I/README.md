@@ -12,12 +12,12 @@ CptS 484 Software Requirements, Fall 2026 · Submitted Sun, Oct 18, 2026
 
 | # | Deliverable | File(s) |
 |---|---|---|
-| 1 | WRS document: §2 Issues with the Preliminary Definition, §3 Improved Understanding (W, RS) with traceability | [`Team_EV_WRS_Phase1.docx`](Team_EV_WRS_Phase1.docx) |
+| 1 | WRS document (v1.1): §2 Issues with the Preliminary Definition, §3 Improved Understanding (W, RS) with traceability | [`Team_EV_WRS_Phase1.docx`](Team_EV_WRS_Phase1.docx) · [`.pdf`](Team_EV_WRS_Phase1.pdf) |
 | 2 | Prototype mock-up (screens, speech commands, gestures, vibrations) | [`Theia Prototype Mock-Up.pptx`](Theia%20Prototype%20Mock-Up.pptx) · [`.pdf`](Theia%20Prototype%20Mock-Up.pdf) |
 | 2 | Preliminary user manual, organized around the presentation's scenarios | [`Theia-Preliminary User Manual v1.1.docx`](Theia-Preliminary%20User%20Manual%20v1.1.docx) · [`.pdf`](Theia-Preliminary%20User%20Manual%20v1.1.pdf) |
-| 3 | Revised Phase I project plan (v1.1, from the preliminary plan v1.0) | [`Team_EV_Project_Plan_Phase1_Final.docx`](Team_EV_Project_Plan_Phase1_Final.docx) |
-| 4 | AS-IS/TO-BE presentation slides (4 scenario pairs + Top Priority analysis) | [`Theia-AS-IS_and_TO-BE_v2.1 Final.pptx`](Theia-AS-IS_and_TO-BE_v2.1%20Final.pptx) · video link above |
-| 5 | AI Usage and Teamwork Report | [`Team_EV_AI_Usage_and_Teamwork_Report.docx`](Team_EV_AI_Usage_and_Teamwork_Report.docx) |
+| 3 | Revised Phase I project plan (v1.2, from the preliminary plan v1.0) | [`Team_EV_Project_Plan_Phase1_Final.docx`](Team_EV_Project_Plan_Phase1_Final.docx) · [`.pdf`](Team_EV_Project_Plan_Phase1_Final.pdf) |
+| 4 | AS-IS/TO-BE presentation slides (4 scenario pairs + Top Priority analysis) | [`Theia-AS-IS_and_TO-BE_v2.1 Final.pptx`](Theia-AS-IS_and_TO-BE_v2.1%20Final.pptx) · [`.pdf`](Theia-AS-IS_and_TO-BE_v2.1%20Final.pdf) · video link above |
+| 5 | AI Usage and Teamwork Report | [`Team_EV_AI_Usage_and_Teamwork_Report.docx`](Team_EV_AI_Usage_and_Teamwork_Report.docx) · [`.pdf`](Team_EV_AI_Usage_and_Teamwork_Report.pdf) |
 
 The prototype and user manual are also summarized in WRS §4, and WRS §5 traces every requirement to the scenarios, the prototype screens, and the manual sections.
 
